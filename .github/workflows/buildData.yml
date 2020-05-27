@@ -2,11 +2,7 @@ name: Update Data
 
 on:
   schedule:
-<<<<<<< HEAD
     - cron: '0 0,8,16 * * *'
-=======
-    - cron: [push]
->>>>>>> 6b05a151bf254fbf850aaf643f61d2a5816c6990
 
 jobs:
   build:

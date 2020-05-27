@@ -1,4 +1,4 @@
-![](https://github.com/jawang12/covid-data-ext/workflows/buildData/badge.svg)
+![](https://github.com/jawang12/covid-data-ext/workflows/Update%20Data/badge.svg)
 
 # COVID-19-worldwide-json-data-script
 
